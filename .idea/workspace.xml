@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac0a71e4-c4fa-47f0-84e1-b90e9a0b4b2c" name="Changes" comment="Clase TsvFileCurrencyLoader terminada y modificacion del orden de parametros del constructor de Currency para una mayor abstraccion" />
+    <list default="true" id="ac0a71e4-c4fa-47f0-84e1-b90e9a0b4b2c" name="Changes" comment="Clase ExchangeRate terminada">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,10 +47,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/Kata2 yo/MoneyCalculator v1/src/main/java/ulpgc/es/MoneyCalculatorV1",
     "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/Kata2 yo/MoneyCalculator v1/src/main/java/ulpgc/es/Main.java"
   }
 }]]></component>
@@ -75,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732655798210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Clase ExchangeRate terminada">
+      <option name="closed" value="true" />
+      <created>1732656108185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732656108185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se crea la clase Currency y la interfaz CurrencyLoader.&#10;Tambien se empieza la clase TsvFileCurrencyLoader y se comienza la modificacion del metodo load haciendo uso de la tecnica &quot;method overloading&quot;." />
     <MESSAGE value="Clase TsvFileCurrencyLoader terminada y modificacion del orden de parametros del constructor de Currency para una mayor abstraccion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase TsvFileCurrencyLoader terminada y modificacion del orden de parametros del constructor de Currency para una mayor abstraccion" />
+    <MESSAGE value="Clase ExchangeRate terminada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase ExchangeRate terminada" />
   </component>
 </project>
