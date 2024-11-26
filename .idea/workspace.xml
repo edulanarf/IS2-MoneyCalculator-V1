@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac0a71e4-c4fa-47f0-84e1-b90e9a0b4b2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/CurrencyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/TsvFileCurrencyLoader.java" afterDir="false" />
+    <list default="true" id="ac0a71e4-c4fa-47f0-84e1-b90e9a0b4b2c" name="Changes" comment="Se crea la clase Currency y la interfaz CurrencyLoader.&#10;Tambien se empieza la clase TsvFileCurrencyLoader y se comienza la modificacion del metodo load haciendo uso de la tecnica &quot;method overloading&quot;.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/TsvFileCurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MoneyCalculatorV1/TsvFileCurrencyLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732652313194</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se crea la clase Currency y la interfaz CurrencyLoader.&#10;Tambien se empieza la clase TsvFileCurrencyLoader y se comienza la modificacion del metodo load haciendo uso de la tecnica &quot;method overloading&quot;.">
+      <option name="closed" value="true" />
+      <created>1732654538699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732654538699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crea la clase Currency y la interfaz CurrencyLoader.&#10;Tambien se empieza la clase TsvFileCurrencyLoader y se comienza la modificacion del metodo load haciendo uso de la tecnica &quot;method overloading&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase Currency y la interfaz CurrencyLoader.&#10;Tambien se empieza la clase TsvFileCurrencyLoader y se comienza la modificacion del metodo load haciendo uso de la tecnica &quot;method overloading&quot;." />
   </component>
 </project>

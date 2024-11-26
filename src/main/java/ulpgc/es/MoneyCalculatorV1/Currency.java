@@ -8,9 +8,9 @@ public class Currency {
     private final String symbol;
 
 
-    public Currency(String name, String code, String symbol) {
-        this.name = name;
+    public Currency(String code, String name, String symbol) {
         this.code = code;
+        this.name = name;
         this.symbol = symbol;
     }
 
